@@ -1,12 +1,8 @@
-package br.senac.aula07examples.bottomnavigation
+package br.senac.aula09examples.bottomnavigation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import br.senac.aula07examples.R
-import br.senac.aula07examples.databinding.ActivityBottomNavigationBinding
-import br.senac.aula07examples.fragments.AlbumsFragment
-import br.senac.aula07examples.fragments.ArtistsFragment
-import br.senac.aula07examples.fragments.RecentsFragment
+import br.senac.aula09examples.databinding.ActivityBottomNavigationBinding
 
 class BottomNavigationActivity : AppCompatActivity() {
 

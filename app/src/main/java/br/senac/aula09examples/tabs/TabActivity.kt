@@ -1,9 +1,8 @@
-package br.senac.aula07examples.tabs
+package br.senac.aula09examples.tabs
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import br.senac.aula07examples.databinding.ActivityTabBinding
-import com.google.android.material.tabs.TabLayoutMediator
+import br.senac.aula09examples.databinding.ActivityTabBinding
 
 class TabActivity : AppCompatActivity() {
     lateinit var binding: ActivityTabBinding

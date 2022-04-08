@@ -1,11 +1,11 @@
-package br.senac.aula07examples.fragments
+package br.senac.aula09examples.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import br.senac.aula07examples.R
+import br.senac.aula09examples.R
 
 class RecentsFragment : Fragment() {
 

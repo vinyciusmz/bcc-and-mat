@@ -1,14 +1,8 @@
-package br.senac.aula07examples.toolbarmenu
+package br.senac.aula09examples.toolbarmenu
 
 import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import br.senac.aula07examples.R
-import br.senac.aula07examples.databinding.ActivityToolbarMenuBinding
-import br.senac.aula07examples.fragments.AlbumsFragment
-import br.senac.aula07examples.fragments.ArtistsFragment
-import br.senac.aula07examples.fragments.RecentsFragment
+import br.senac.aula09examples.databinding.ActivityToolbarMenuBinding
 
 class ToolbarMenuActivity : AppCompatActivity() {
     lateinit var binding: ActivityToolbarMenuBinding
